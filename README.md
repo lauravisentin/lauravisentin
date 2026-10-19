@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/lauravisentin/lauravisentin/main/header.svg" width="100%" alt="Code Editor">
 
-<!--
-**lauravisentin/lauravisentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/lauravisentin/lauravisentin/main/about.svg" width="100%" alt="Code Markdown">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://raw.githubusercontent.com/lauravisentin/lauravisentin/main/skills.svg" width="100%" alt="Code Stack">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/lauravisentin/lauravisentin/main/footer.svg" width="100%" alt="Code Status Bar">
