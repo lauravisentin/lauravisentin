@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/lauravisentin/lauravisentin/main/header.svg" width="100%" alt="Code Editor">
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/lauravisentin/lauravisentin/main/about.svg" width="100%" alt="Code Markdown">
 
 <br/>
