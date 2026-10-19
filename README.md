@@ -3,7 +3,3 @@
 <br/>
 
 <img src="https://raw.githubusercontent.com/lauravisentin/lauravisentin/main/skills.svg" width="100%" alt="Code Stack">
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/lauravisentin/lauravisentin/main/footer.svg" width="100%" alt="Code Status Bar">
