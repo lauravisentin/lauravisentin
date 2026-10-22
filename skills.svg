@@ -1,9 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="273" viewBox="0 0 800 273" font-size="14">
   <style>
     text { font-family: ui-monospace, "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace; dominant-baseline: middle; }
-    
+    @keyframes cl0 { 0%,0% { opacity: 0 } 2%,90% { opacity: 1 } 96%,100% { opacity: 0 } }
+    @keyframes cl1 { 0%,4% { opacity: 0 } 6%,90% { opacity: 1 } 96%,100% { opacity: 0 } }
+    @keyframes cl2 { 0%,8% { opacity: 0 } 10%,90% { opacity: 1 } 96%,100% { opacity: 0 } }
+    @keyframes cl3 { 0%,12% { opacity: 0 } 14%,90% { opacity: 1 } 96%,100% { opacity: 0 } }
+    @keyframes cl4 { 0%,16% { opacity: 0 } 18%,90% { opacity: 1 } 96%,100% { opacity: 0 } }
+    @keyframes cl5 { 0%,20% { opacity: 0 } 22%,90% { opacity: 1 } 96%,100% { opacity: 0 } }
+    @keyframes cl6 { 0%,24% { opacity: 0 } 26%,90% { opacity: 1 } 96%,100% { opacity: 0 } }
+    @keyframes cl7 { 0%,28% { opacity: 0 } 30%,90% { opacity: 1 } 96%,100% { opacity: 0 } }
     @keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
-    
+    .cl0 { animation: cl0 12s ease-in-out infinite }
+    .cl1 { animation: cl1 12s ease-in-out infinite }
+    .cl2 { animation: cl2 12s ease-in-out infinite }
+    .cl3 { animation: cl3 12s ease-in-out infinite }
+    .cl4 { animation: cl4 12s ease-in-out infinite }
+    .cl5 { animation: cl5 12s ease-in-out infinite }
+    .cl6 { animation: cl6 12s ease-in-out infinite }
+    .cl7 { animation: cl7 12s ease-in-out infinite }
   </style>
   <rect width="100%" height="100%" fill="#1e1e1e" rx="14" ry="14"/>
 
@@ -42,19 +56,19 @@
   </g>
   <g class="cl1">
     <text x="184" y="108" fill="#6a737d" text-anchor="end" font-size="12">2</text>
-    <g transform="translate(194 108)"><text x="0" xml:space="preserve"><tspan fill="#d4d4d4">  </tspan><tspan fill="#ce9178">&quot;React&quot;</tspan><tspan fill="#d4d4d4">,</tspan></text></g>
+    <g transform="translate(194 108)"><text x="0" xml:space="preserve"><tspan fill="#d4d4d4">  </tspan><tspan fill="#ce9178">&quot;C#&quot;</tspan><tspan fill="#d4d4d4">,</tspan></text></g>
   </g>
   <g class="cl2">
     <text x="184" y="130" fill="#6a737d" text-anchor="end" font-size="12">3</text>
-    <g transform="translate(194 130)"><text x="0" xml:space="preserve"><tspan fill="#d4d4d4">  </tspan><tspan fill="#ce9178">&quot;Javascript&quot;</tspan><tspan fill="#d4d4d4">,</tspan></text></g>
+    <g transform="translate(194 130)"><text x="0" xml:space="preserve"><tspan fill="#d4d4d4">  </tspan><tspan fill="#ce9178">&quot;Java&quot;</tspan><tspan fill="#d4d4d4">,</tspan></text></g>
   </g>
   <g class="cl3">
     <text x="184" y="152" fill="#6a737d" text-anchor="end" font-size="12">4</text>
-    <g transform="translate(194 152)"><text x="0" xml:space="preserve"><tspan fill="#d4d4d4">  </tspan><tspan fill="#ce9178">&quot;Dart&quot;</tspan><tspan fill="#d4d4d4">,</tspan></text></g>
+    <g transform="translate(194 152)"><text x="0" xml:space="preserve"><tspan fill="#d4d4d4">  </tspan><tspan fill="#ce9178">&quot;React&quot;</tspan><tspan fill="#d4d4d4">,</tspan></text></g>
   </g>
   <g class="cl4">
     <text x="184" y="174" fill="#6a737d" text-anchor="end" font-size="12">5</text>
-    <g transform="translate(194 174)"><text x="0" xml:space="preserve"><tspan fill="#d4d4d4">  </tspan><tspan fill="#ce9178">&quot;HTML/CSS&quot;</tspan><tspan fill="#d4d4d4">,</tspan></text></g>
+    <g transform="translate(194 174)"><text x="0" xml:space="preserve"><tspan fill="#d4d4d4">  </tspan><tspan fill="#ce9178">&quot;Dart&quot;</tspan><tspan fill="#d4d4d4">,</tspan></text></g>
   </g>
   <g class="cl5">
     <text x="184" y="196" fill="#6a737d" text-anchor="end" font-size="12">6</text>
